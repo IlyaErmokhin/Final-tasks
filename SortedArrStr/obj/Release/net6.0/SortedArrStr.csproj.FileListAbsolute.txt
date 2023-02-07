@@ -1,0 +1,15 @@
+C:\Users\iluxa\source\repos\SortedArrStr\bin\Release\net6.0\SortedArrStr.exe
+C:\Users\iluxa\source\repos\SortedArrStr\bin\Release\net6.0\SortedArrStr.deps.json
+C:\Users\iluxa\source\repos\SortedArrStr\bin\Release\net6.0\SortedArrStr.runtimeconfig.json
+C:\Users\iluxa\source\repos\SortedArrStr\bin\Release\net6.0\SortedArrStr.dll
+C:\Users\iluxa\source\repos\SortedArrStr\bin\Release\net6.0\SortedArrStr.pdb
+C:\Users\iluxa\source\repos\SortedArrStr\obj\Release\net6.0\SortedArrStr.csproj.AssemblyReference.cache
+C:\Users\iluxa\source\repos\SortedArrStr\obj\Release\net6.0\SortedArrStr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iluxa\source\repos\SortedArrStr\obj\Release\net6.0\SortedArrStr.AssemblyInfoInputs.cache
+C:\Users\iluxa\source\repos\SortedArrStr\obj\Release\net6.0\SortedArrStr.AssemblyInfo.cs
+C:\Users\iluxa\source\repos\SortedArrStr\obj\Release\net6.0\SortedArrStr.csproj.CoreCompileInputs.cache
+C:\Users\iluxa\source\repos\SortedArrStr\obj\Release\net6.0\SortedArrStr.dll
+C:\Users\iluxa\source\repos\SortedArrStr\obj\Release\net6.0\refint\SortedArrStr.dll
+C:\Users\iluxa\source\repos\SortedArrStr\obj\Release\net6.0\SortedArrStr.pdb
+C:\Users\iluxa\source\repos\SortedArrStr\obj\Release\net6.0\SortedArrStr.genruntimeconfig.cache
+C:\Users\iluxa\source\repos\SortedArrStr\obj\Release\net6.0\ref\SortedArrStr.dll
