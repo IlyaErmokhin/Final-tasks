@@ -1,5 +1,6 @@
 ﻿using System;
-public class LipYear
+
+public class LeapYear
 {
     public static void Main(string[] args)
     {
@@ -10,15 +11,6 @@ public class LipYear
 
     }
 
-    public static bool lipYear(int k)
-    {
-        if (k % 4 == 0 && (k % 100 != 0 || k % 400 == 0))
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
-    }
+    public static bool IsLeapYear(int k) =>
+        k % 4 == 0 && (k % 100 != 0 || k % 400 == 0);
 }
